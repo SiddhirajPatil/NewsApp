@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Zoe Sottile",
+        "title": "'Unlike any planets found in our solar system:' These two planets are probably made of water, study finds - CNN",
+        "description": "Two far-off planets are likely made of water, according to research conducted using NASA's Hubble and Spitzer telescopes.",
+        "url": "https://www.cnn.com/2022/12/17/us/exoplanets-water-hubble-scn-trnd/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221215153456-01-exoplanets-water-hubble.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-17T07:08:00Z",
+        "content": "Two far-off planets are likely made of water, according to research conducted using NASAs Hubble and Spitzer telescopes.\r\nThe so-called water worlds are orbiting a red dwarf star, the smallest and co… [+2982 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jamie Gangel, Katelyn Polantz",
+        "title": "January 6 committee expected to announce referral of multiple criminal charges against Trump to DOJ - CNN",
+        "description": "The House select committee investigating January 6, 2021, is expected to announce it will refer at least three criminal charges against former President Donald Trump to the Justice Department, including insurrection, obstruction of an official proceeding and …",
+        "url": "https://www.cnn.com/2022/12/16/politics/january-6-committee-trump-criminal-charges-doj/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221107210814-donald-trump-ohio-110722.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-17T03:19:00Z",
+        "content": "The House select committee investigating January 6, 2021, is expected to announce it will refer at least three criminal charges against former President Donald Trump to the Justice Department, includ… [+3604 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Claudia Rebaza, Tara John",
+        "title": "As public anger mounts, Peru's lawmakers reject reform needed to hold early elections - CNN",
+        "description": "As Peru explodes in protest with supporters of its former president taking to streets, lawmakers on Friday rejected a constitutional reform that is needed to hold early general elections in 2023.",
+        "url": "https://www.cnn.com/2022/12/16/americas/peru-election-reform-protests-intl-latam/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216180429-01-peru-protests-1215.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-17T00:18:00Z",
+        "content": "As Peru explodes in protest with supporters of its former president taking to streets, lawmakers on Friday rejected a constitutional reform that is needed to hold early general elections in 2023. \r\nC… [+2313 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Andy Rose, Carolyn Sung, Christina Maxouris",
+        "title": "Highland Park suspected shooter's father is charged with felony reckless conduct - CNN",
+        "description": "The father of the man accused of killing seven people and wounding dozens more at the Highland Park, Illinois, Fourth of July parade was taken into custody Friday and facing felony reckless conduct charges, prosecutors announced.",
+        "url": "https://www.cnn.com/2022/12/16/us/highland-park-shooting-suspect-father-charges/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216143414-01-robert-crimo-jr-file.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-16T23:24:00Z",
+        "content": "The father of the man accused of killing seven people and wounding dozens more at the Highland Park, Illinois, Fourth of July parade was taken into custody Friday and facing felony reckless conduct c… [+5095 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Carma Hassan",
+        "title": "CDC investigating apparent rise in strep A infections in children - CNN",
+        "description": "The US Centers for Disease Control and Prevention says it's investigating an apparent increase in invasive group A strep infections, but the rise may indicate a return to typical pre-pandemic levels.",
+        "url": "https://www.cnn.com/2022/12/16/health/strep-a-infections-us/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202120123-strep-a-illustration.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-12-16T22:40:00Z",
+        "content": "The US Centers for Disease Control and Prevention says its investigating an apparent increase in invasive group A strep infections, but the rise may indicate a return to typical pre-pandemic levels.\r… [+3209 chars]"
+      }
+    ]
+  }
+    
